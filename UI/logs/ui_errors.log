@@ -1,0 +1,8 @@
+LEVEL: WARNING, TIME: 2018-01-31 20:00:19,835 - warning message
+LEVEL: WARNING, TIME: 2018-01-31 20:23:06,801 - warning message
+LEVEL: WARNING, TIME: 2018-01-31 20:31:42,756 - warning message
+LEVEL: WARNING, TIME: 2018-01-31 20:32:40,872 - Conversion Error: entry min_mois in field: <PyQt5.QtWidgets.QLineEdit object at 0x000000000C31AF78> was unable to be converted to an integer. Entry will not be stored
+LEVEL: WARNING, TIME: 2018-01-31 20:44:43,718 - warning message
+LEVEL: WARNING, TIME: 2018-01-31 20:59:55,289 - warning message
+LEVEL: WARNING, TIME: 2018-01-31 21:02:58,642 - warning message
+WARNING, TIME: 2018-02-01 08:15:58,822 - warning message

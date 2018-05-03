@@ -1,0 +1,1 @@
+CALL C:\Users\JMCNEILAN\Documents\Projects\Python\DFH_Integra\UI\interfaces\pyuic5.bat -x Dialog_ChemSpec.ui -o Dialog_ChemSpec.py
